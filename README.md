@@ -3,7 +3,7 @@
 
 ## 👋 Olá Mundo 😄!! 
 
--- 💬 Me mande msgs sempre que quiserem.
+💬 Me mande msgs sempre que quiserem.
 
 🌱 Sou Casado, pai de dois filhos, amo minha familia acima de tudo que possa existir nessa terra, busco uma vaga como developer, sou de confiança e caráter, visto a camisa e dou o meu melhor sempre, quero deixar ácima de tudo um exemplo de homem honesto e trabalhador para meus filhos, pois sei que eles só precisam disso para serem bem sucedidos na vida.
 
@@ -22,19 +22,21 @@ práticas da tecnologia e inovação.
 
 ⚡ Participação ativa colaborando com devs com menos experiência nas comunidades da Digital Innovation One, RocketSeat, Shawee. Gosto muito de compartilhar meus conhecimentos e aprendizados
 
+---
 
-- 🎯 [Portfolio WebSite](https://4lexrossi.github.io/)
+- 🎯 [Portfolio WebSite](https://4lexrossi.github.io/) ⭐
 
 
-- :tw-1f530: Languages: Java, C#, JavaScript, Python
+➡️ Languages: Java, C#, JavaScript, Python
 
-- :tw-1f527: Frameworks: ReactJS, Angular, Spring, ASP.Net core, NodeJs
+➡️ Frameworks: ReactJS, Angular, Spring, ASP.Net core, NodeJs
 
-- :tw-1f525: Data Base: Redis, MongoDB, ElastichSearch, PostgreSQL
+➡️ Data Base: Redis, MongoDB, ElastichSearch, PostgreSQL
 
-- :tw-2601: Cloud: DialogFlow, Azure, AWS, Heroku, GoogleApis, Eureka Netflix
+➡️ Cloud: DialogFlow, Azure, AWS, Heroku, GoogleApis, Eureka Netflix
 
-- :tw-3299: Karatê 
+➡️ Karatê 
+
 ---
 
 <h1 align="center">Quer ser meu amigo clica ai e conecta</h1>
