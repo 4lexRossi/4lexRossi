@@ -5,7 +5,9 @@
 
 ## 👋 Olá Mundo 😄!! 
 
+<p align="center">
 ![Alex GitHub Stats](https://github-readme-stats.vercel.app/api?username=4lexRossi&show_icons=true)
+</p>
 
 💬 Me mande msgs sempre que quiserem.
 
