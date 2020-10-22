@@ -5,12 +5,12 @@
 
 ## 👋 Olá Mundo 😄!! 
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=4lexRossi&show_icons=true"/>
 <center>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=4lexRossi&show_icons=true"/>
   <table>
     <tr>
-        <td><img width="350px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4lexRossi&layout=compact&show_icons=true" /></td>
-        <td><img width="350px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=4lexRossi&layout=compact&show_icons=true"/></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4lexRossi&layout=compact&show_icons=true" /></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=4lexRossi&layout=compact&show_icons=true"/></td>
     </tr>   
   </table>
 </center> 
