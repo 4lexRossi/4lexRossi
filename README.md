@@ -6,9 +6,9 @@
 ## 👋 Olá Mundo 😄!! 
 
 <center>
+  <img width="300px" align="center" src="https://github-readme-stats.vercel.app/api?username=4lexRossi&show_icons=true"/>
   <table>
     <tr>
-        <td><img width="300px" align="left" src="https://github-readme-stats.vercel.app/api?username=4lexRossi&show_icons=true"/></td>
         <td><img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4lexRossi&layout=compact&show_icons=true" /></td>
         <td><img width="396px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=4lexRossi&layout=compact&show_icons=true"/></td>
     </tr>   
