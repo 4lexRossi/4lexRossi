@@ -8,7 +8,15 @@
 
 ![Alex GitHub Stats](https://github-readme-stats.vercel.app/api?username=4lexRossi&show_icons=true)
 
-
+<center>
+  <table>
+    <tr>
+        <td><img width="300px" align="left" src="https://github-readme-stats.vercel.app/api?username=4lexRossi&theme=dracula"/></td>
+        <td><img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4lexRossi&layout=compact&theme=dracula" /></td>
+        <td><img width="396px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=4lexRossi&theme=dracula&layout=compact"/></td>
+    </tr>   
+  </table>
+</center> 
 💬 Me mande msgs sempre que quiserem.
 
 🌱 Sou Casado, pai de dois filhos, amo minha familia acima de tudo que possa existir nessa terra, estou hoje como trainee developer, sou de confiança e caráter, visto a camisa e dou o meu melhor sempre, quero deixar ácima de tudo um exemplo de homem honesto e trabalhador para meus filhos, pois sei que eles só precisam disso para serem bem sucedidos na vida.
