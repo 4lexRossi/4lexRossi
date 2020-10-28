@@ -5,7 +5,7 @@
 
 ## 👋 Olá Mundo 😄!! 
 <table>
-    <tr>
+    <tr align="row">
         <td>
             <img align="center" src="https://github-readme-stats.vercel.app/api?username=4lexRossi&show_icons=true"/>
         </td>
@@ -36,8 +36,10 @@ práticas da tecnologia e inovação.
 ⚡ Suporte e participação em ações de responsabilidade social.
 
 ⚡ Participação ativa colaborando com devs com menos experiência nas comunidades da Digital Innovation One, RocketSeat, Shawee. Gosto muito de compartilhar meus conhecimentos e aprendizados
-<img width="600px" align="center" src="https://wakatime.com/share/@4lexRossi/f35fe96e-039f-4dde-a348-10ccf0fa7ed5.svg" />
+
 ---
+
+<img width="600px" align="center" src="https://wakatime.com/share/@4lexRossi/f35fe96e-039f-4dde-a348-10ccf0fa7ed5.svg" />
 
 - 🎯 [Portfolio WebSite](https://4lexrossi.github.io/) ⭐
 
