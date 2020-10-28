@@ -7,7 +7,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=4lexRossi&show_icons=true"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4lexRossi&layout=compact&show_icons=true" />
-<img width="400px" align="left" <figure><embed src="https://wakatime.com/share/@4lexRossi/f35fe96e-039f-4dde-a348-10ccf0fa7ed5.svg"></embed></figure> />
+<img align="center" src="https://wakatime.com/share/@4lexRossi/f35fe96e-039f-4dde-a348-10ccf0fa7ed5.svg" />
     
 💬 Me mande msgs sempre que quiserem.
 
