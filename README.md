@@ -8,8 +8,7 @@
     <tr align="row">
         <td>
             <img align="center" src="https://github-readme-stats.vercel.app/api?username=4lexRossi&show_icons=true"/>
-        </td>
-    
+        </td>    
         <td>
             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4lexRossi&layout=compact&show_icons=true" />
         </td>
