@@ -9,9 +9,13 @@
         <td>
             <img align="center" src="https://github-readme-stats.vercel.app/api?username=4lexRossi&show_icons=true"/>
         </td>
+    </tr>
+    <tr>
         <td>
             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4lexRossi&layout=compact&show_icons=true" />
         </td>
+    </tr>
+    <tr>
         <td>
             <img width="400px" align="center" src="https://wakatime.com/share/@4lexRossi/7ee5bec5-df33-4c1c-b4bc-8768914434ff.svg" />
         </td>
@@ -39,7 +43,7 @@ práticas da tecnologia e inovação.
 
 ---
 
-<img width="600px" align="center" src="https://wakatime.com/share/@4lexRossi/f35fe96e-039f-4dde-a348-10ccf0fa7ed5.svg" />
+<img width="500px" align="center" src="https://wakatime.com/share/@4lexRossi/f35fe96e-039f-4dde-a348-10ccf0fa7ed5.svg" />
 
 - 🎯 [Portfolio WebSite](https://4lexrossi.github.io/) ⭐
 
