@@ -48,16 +48,17 @@ práticas da tecnologia e inovação.
 - 🎯 [Portfolio WebSite](https://4lexrossi.github.io/) ⭐
 
 
-➡️ Languages: C#, JavaScript, Java, Python
+➡️ Languages: C#, JavaScript, Python, Java
 
-➡️ Frameworks: AngularJS, ASP.Net core, NodeJs, ReactJS, Spring, 
+➡️ Frameworks: AngularJS, ASP.Net core, NodeJs, Spring, 
 
-➡️ Data Base: Redis, MongoDB, ElastichSearch, PostgreSQL
+➡️ Data Base: Redis, MongoDB, PostgreSQL
 
-➡️ Cloud: DialogFlow, Azure, AWS, Heroku, GoogleApis, Eureka Netflix
+➡️ Cloud: DialogFlow, Azure, AWS, Heroku, GoogleApis
 
 ➡️ Karatê 
 
+➡️ Café =D
 ---
 
 <h1 align="center">Quer ser meu amigo =D clica ai e conecta</h1>
