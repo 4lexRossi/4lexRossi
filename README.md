@@ -59,6 +59,7 @@ práticas da tecnologia e inovação.
 ➡️ Karatê 
 
 ➡️ Café =D
+
 ---
 
 <h1 align="center">Quer ser meu amigo =D clica ai e conecta</h1>
