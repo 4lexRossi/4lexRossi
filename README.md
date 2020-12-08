@@ -13,14 +13,14 @@
             <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4lexRossi&layout=compact&show_icons=true" />
         </td>
     </tr>
-    <tr>
+<!--     <tr>
         <td>
             <img width="800px" align="center" src="https://wakatime.com/share/@4lexRossi/7ee5bec5-df33-4c1c-b4bc-8768914434ff.svg" />
         </td>
-    <!--    <td>
+       <td>
             <img width="400px" align="center" src="https://wakatime.com/share/@4lexRossi/f35fe96e-039f-4dde-a348-10ccf0fa7ed5.svg" />
-        </td>  -->
-    </tr>
+        </td> 
+    </tr> -->
 </table>
     
 💬 Me mande msgs sempre que quiserem.
