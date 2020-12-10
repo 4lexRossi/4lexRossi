@@ -7,10 +7,10 @@
 <table>
     <tr align="row">
         <td>
-            <img align="center" src="https://github-readme-stats.vercel.app/api?username=4lexRossi&show_icons=true"/>
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=4lexRossi&show_icons=true&fill=black" />
         </td>    
         <td>
-            <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4lexRossi&layout=compact&show_icons=true" />
+            <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4lexRossi&layout=compact&show_icons=true&fill=black" />
         </td>
     </tr>
 <!--     <tr>
