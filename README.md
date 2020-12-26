@@ -25,18 +25,20 @@
     
 💬 Me mande msgs sempre que quiserem.
 
-🌱 Sou Casado, pai de dois filhos, amo minha familia acima de tudo que possa existir nessa terra, estou hoje como trainee developer, sou de confiança e caráter, visto a camisa e dou o meu melhor sempre, quero deixar ácima de tudo um exemplo de homem honesto e trabalhador para meus filhos, pois sei que eles só precisam disso para serem bem sucedidos na vida.
+🌱 Sou Casado, pai de dois filhos, amo minha familia acima de tudo que possa existir nessa terra, estou hoje junior developer, sou de confiança e caráter, visto a camisa e dou o meu melhor sempre, quero deixar ácima de tudo um exemplo de homem honesto e trabalhador para meus filhos, pois sei que eles só precisam disso para serem bem sucedidos na vida.
 
 ⚡ Conhecimento e experiência de métodos ágeis, gestão de projetos e programas baseado nas melhores
 práticas da tecnologia e inovação.
 
-⚡ Conhecimento no desenvolvimento de APIs Rest, tendo desenvolvido aplicações em Spring MVC, Spring Boot, Spring Cloud, .Net Core e Python.
+⚡ Conhecimento em Front End, tendo desenvolvido aplicações em AngularJS, Angular, HTML, CSS, Javascript, ReactJS.
+
+⚡ Conhecimento no desenvolvimento de APIs Rest, tendo desenvolvido aplicações em .Net Core, NodeJS, Java e Python.
 
 ⚡ Membro do Diox Squad Comunidade de tecnologia da Digital Innovation One, ficando entre os 30 escolhidos de maior liderança global tecnológica trabalho em equipe de alta performance aplicação de tecnologias ágeis no dia a dia, criação de tecnologias em squads.
 
-⚡ Curiosidade para explorar novas tecnologias ( cloud, big-data, machine Learning ) de tendência, criando projetos novos e visão prática para manter meu portfólio atualizado.
+⚡ Curiosidade para explorar novas tecnologias ( cloud, big-data, machine Learning ), criando projetos novos e visão prática para manter meu portfólio atualizado.
 
-⚡ Nono lugar Hackathon hack for good com um time de apenas 3 pessoas usando metodologias ágeis entregamos um prototipo com video-chamadas integrado pela Api da Twillio.
+⚡ Nono lugar Hackathon hack for good com um time de apenas 3 pessoas usando metodologias ágeis entregamos um prototipo com video-chamadas integrado pela Api da Twilio.
 
 ⚡ Suporte e participação em ações de responsabilidade social.
 
@@ -48,7 +50,7 @@ práticas da tecnologia e inovação.
 - 🎯 [Portfolio WebSite](https://4lexrossi.github.io/) ⭐
 
 
-➡️ Languages: C#, JavaScript, Python, Java
+➡️ Languages: C#, JavaScript, Java, Python
 
 ➡️ Frameworks: AngularJS, ASP.Net core, NodeJs, Spring, 
 
