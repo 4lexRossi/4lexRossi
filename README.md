@@ -27,7 +27,7 @@
 
 🌱 Sou Casado, pai de dois filhos, amo minha familia acima de tudo que possa existir nessa terra, estou hoje junior developer, sou de confiança e caráter, visto a camisa e dou o meu melhor sempre, quero deixar ácima de tudo um exemplo de homem honesto e trabalhador para meus filhos, pois sei que eles só precisam disso para serem bem sucedidos na vida.
 
-⚡ "Junior FullStack Developer in Venturus"
+⚡ Junior FullStack Developer in Venturus - Developing the Future
 
 ⚡ Conhecimento e experiência de métodos ágeis, gestão de projetos e programas baseado nas melhores
 práticas da tecnologia e inovação.
