@@ -60,7 +60,7 @@ práticas da tecnologia e inovação.
 
 ➡️ Data Base: Redis, MongoDB, PostgreSQL
 
-➡️ Cloud: DialogFlow, Azure, AWS, Heroku, GoogleApis
+➡️ Cloud: DialogFlow, AWS, Heroku, GoogleApis
 
 ➡️ Karatê 
 
