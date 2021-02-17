@@ -51,7 +51,7 @@ práticas da tecnologia e inovação.
 ---
 
 
-- 🎯 [Portfolio WebSite](https://4lexrossi.github.io/) ⭐
+-- 🎯 [Portfolio WebSite](https://4lexrossi.github.io/) ⭐
 
 
 ➡️ Languages: C#, JavaScript, Java, Python
