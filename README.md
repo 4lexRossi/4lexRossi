@@ -9,7 +9,7 @@
 <table>
     <tr align="row">
         <td>
-            <img align="center" src="https://github-readme-stats.vercel.app/api?username=4lexRossi&show_icons=true" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=4lexRossi&show_icons=true&theme=jolly" />
         </td>    
         <td>
             <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4lexRossi&layout=compact&show_icons=true" />
@@ -25,7 +25,7 @@
     </tr> -->
 </table>
     
-💬 Me mande msgs sempre que quiserem.
+💬 Me mande msgs sempre que quiserem.👨‍💻
 
 🌱 Sou Casado, pai de dois filhos, amo minha familia acima de tudo que possa existir nessa terra, estou hoje junior developer, sou de confiança e caráter, visto a camisa e dou o meu melhor sempre, quero deixar ácima de tudo um exemplo de homem honesto e trabalhador para meus filhos, pois sei que eles só precisam disso para serem bem sucedidos na vida.
 
@@ -62,9 +62,9 @@ práticas da tecnologia e inovação.
 
 ➡️ Cloud: DialogFlow, AWS, Heroku, GoogleApis
 
-➡️ Karatê 
+➡️ Karatê ❤️
 
-➡️ Café =D
+➡️ Café =D ☕️
 
 ---
 
