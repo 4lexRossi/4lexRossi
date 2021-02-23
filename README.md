@@ -64,7 +64,7 @@ práticas da tecnologia e inovação.
 
 ➡️ Karatê ❤️
 
-➡️ Café =D ☕️
+➡️ Café ☕️
 
 ---
 
