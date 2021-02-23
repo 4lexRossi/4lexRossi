@@ -56,7 +56,7 @@ práticas da tecnologia e inovação.
 
 ➡️ Languages: C#, JavaScript, Java, Python
 
-➡️ Frameworks: AngularJS, ASP.Net core, NodeJs, Spring, 
+➡️ Frameworks: Angular, ASP.Net core, NodeJs, Spring, 
 
 ➡️ Data Base: Redis, MongoDB, PostgreSQL
 
