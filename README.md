@@ -4,6 +4,7 @@
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=4lexRossi&repo=4lexRossi&countColorcountColor)
 
+> se você leu esse contador de visitas e essa msg te peguei no meu jutsu clica na foto no final da página e conecta no In, ah e me avisa que meu Jutsu funcionou
 
 ## 👋 Olá Mundo 😄!! 
 <table>
