@@ -54,11 +54,11 @@
 🎯 [Portfolio WebSite](https://4lexrossi.github.io/) ⭐
 
 
-➡️ Languages: C#, JavaScript, Java, Python
+➡️ Languages: Java, JavaScript, C#, Python
 
-➡️ Frameworks: Angular, ASP.Net core, NodeJs, Spring
+➡️ Frameworks: Angular, Spring, ASP.Net core, NodeJs
 
-➡️ Data Base: Redis, MongoDB, PostgreSQL
+➡️ Data Base: Redis, MongoDB, PostgreSQL, MySQL
 
 ➡️ Cloud: DialogFlow, AWS, Heroku, GoogleApis
 
