@@ -46,7 +46,7 @@
 
 ⚡ Suporte e participação em ações de responsabilidade social.
 
-⚡ Participação ativa colaborando com devs com menos experiência nas comunidades da Digital Innovation One, RocketSeat, Shawee. Gosto muito de compartilhar meus conhecimentos e aprendizados
+⚡ Participação ativa colaborando com devs com menos experiência nas comunidades da Digital Innovation One, RocketSeat, Shawee. Gosto de compartilhar meus aprendizados e quero ajudar, principalmente as pessoas que estão iniciando ou migrando para a área de tecnologia.
 
 ---
 
