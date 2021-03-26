@@ -32,8 +32,7 @@
 
 ⚡ Junior FullStack(Angular/Java) Developer in Venturus - Developing the Future
 
-⚡ Conhecimento e experiência de métodos ágeis, gestão de projetos e programas baseado nas melhores
-práticas da tecnologia e inovação.
+⚡ Conhecimento e experiência de métodos ágeis, gestão de projetos e Devops(Jira, Jenkins Pipeline e controle de versão(GIT)
 
 ⚡ Conhecimento em Front End, tendo desenvolvido aplicações em AngularJS, Angular, HTML, CSS, Javascript, ReactJS.
 
