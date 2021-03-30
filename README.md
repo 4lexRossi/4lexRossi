@@ -36,9 +36,9 @@
 
 ⚡ Conhecimento em Front End, tendo desenvolvido aplicações em AngularJS, Angular, HTML, CSS, Javascript, ReactJS.
 
-⚡ Conhecimento no desenvolvimento de APIs Rest, tendo desenvolvido aplicações em  Java, .Net Core, NodeJS e Python.
+⚡ Conhecimento no desenvolvimento de APIs Rest, tendo desenvolvido aplicações em  Java(Spring), .Net Core, NodeJS e Python.
 
-⚡ Membro do Diox Squad Comunidade de tecnologia da Digital Innovation One, ficando entre os 30 escolhidos de maior liderança global tecnológica trabalho em equipe de alta performance aplicação de tecnologias ágeis no dia a dia, criação de tecnologias em squads.
+⚡ Membro do Diox Squad Comunidade de tecnologia da Digital Innovation One, ficando entre os 30 escolhidos de maior liderança global tecnológica na plataforma, desenvolvendo projetos em equipe, metodologias ágeis no dia a dia e criação de aplicações.
 
 ⚡ Curiosidade para explorar novas tecnologias ( cloud, big-data, machine Learning ), criando projetos novos e visão prática para manter meu portfólio atualizado.
 
