@@ -28,7 +28,7 @@
     
 💬 Me mande msgs sempre que quiserem.👨‍💻
 
-🌱 Sou Casado, pai de dois filhos, amo minha familia acima de tudo que possa existir nessa terra, estou hoje junior developer, sou de confiança e caráter, visto a camisa e dou o meu melhor sempre, quero deixar ácima de tudo um exemplo de homem honesto e trabalhador para meus filhos, pois sei que eles só precisam disso para serem bem sucedidos na vida.
+🌱 Casado, pai de dois filhos, amo minha familia acima de tudo que possa existir nessa terra, estou hoje como junior backend developer, sou de confiança e caráter, visto a camisa e dou o meu melhor sempre, quero deixar ácima de tudo um exemplo de homem honesto e trabalhador para meus filhos, pois sei que eles só precisam disso para serem bem sucedidos na vida.
 
 ⚡ Junior FullStack(Angular/Java) Developer in Venturus - Developing the Future
 
