@@ -58,7 +58,7 @@
 
 ➡️ Frameworks: Angular, Spring, ASP.Net core, NodeJs
 
-➡️ Data Base: Redis, MongoDB, PostgreSQL, MySQL
+➡️ Data Base: MongoDB, PostgreSQL, MySQL
 
 ➡️ Cloud: DialogFlow, AWS, Heroku, GoogleApis
 
