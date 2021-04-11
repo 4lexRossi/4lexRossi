@@ -6,7 +6,7 @@
 
 > /\ Se você leu esse contador de visitas e essa msg te peguei no meu jutsu 😄 clica na foto no final da página e conecta no In, ah e me avisa que meu Jutsu funcionou
 
-## 👋 Olá Mundo!! 
+## 👋 Olá Mundo!
 <table>
     <tr align="row">
         <td>
