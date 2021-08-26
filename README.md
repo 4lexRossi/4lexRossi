@@ -28,7 +28,15 @@
     
 💬 Me mande msgs sempre que quiserem.👨‍💻
 
-🌱 Casado, pai de dois filhos, amo minha familia acima de tudo que possa existir nessa terra, estou hoje como junior backend developer, amo programar e dou o meu melhor, sempre, quero deixar ácima de tudo um exemplo de homem honesto e trabalhador para meus filhos, pois sei que eles só precisam disso para serem bem sucedidos na vida.
+🌱 Comecei a programar sites estáticos, bem simples com o macromedia flash e dreamweaver, ainda muito jovem com 16 pra 17 anos, minha cidade é muito pequena no Brasil e na época não tinha muitas oportunidades nessa área.
+Fui então a trabalhar como marceneiro para ajudar meu pai, mas nunca me afastei muito dos computadores.
+Em 2019 voltei aos estudos quando comprei um curso de aplicativos pela Udemy e tive meus primeiros contato com java, só não conclui porque meu laptop não conseguiu rodar o android studio por muito tempo.
+Em março de 2020 encontrei uma plataforma com cursos de programação gratuitos a Digital Innovation One, um mês após veio a pandemia com tudo e perdi meu emprego como marceneiro,  decidi então racionar minhas economias e focar nos estudos para conseguir a transição de carreira e trabalhar como desenvolvedor.
+Não foi fácil, minha esposa também não trabalhava e como pai de família tinha que prover o sustento em minha casa, estudei muito, muito mesmo, acordava as 06:00 e ia até as 22:00 quase todos os dias, inclusive aos fins de semana, fiz dezenas de entrevistas e testes, foram muitas horas de tela, em maio do mesmo ano fui chamado para ser Community Leader pelo CEO da mesma plataforma que comecei a estudar, participando de uma aceleração digital, com projetos e squads para simular o mais próximo de uma empresa real.
+Em Outubro consegui minha primeira oportunidade registrado como trainee.
+Ainda em Outubro, 15 dias após iniciar nessa empresa recebi a notícia que tinha passado para uma vaga já como junior, na empresa em que me encontro hoje, com 6 meses recebi um aumento, foi algo incrível para mim, principalmente por causa dos feedbacks que recebi do gerente de projetos e segundo ele endossado por todo o time.
+No mês seguinte, meu time recebeu um prêmio de excelência na entrega, por ter desenvolvido um projeto, do qual participei desde o início em apenas 6 meses e nas palavras do próprio cliente, não achava que seria possível em tão pouco tempo entregar um produto tão bem desenvolvido, e com uma excelente cobertura nos testes unitários.
+Hoje esse cliente que estava saindo da empresa fechou mais 4 projetos, pelo menos por enquanto.
 
 ⚡ Junior FullStack(Angular/Java) Developer in Venturus - Developing the Future
 
@@ -36,11 +44,9 @@
 
 ⚡ Conhecimento em Front End, tendo desenvolvido aplicações em AngularJS, Angular, HTML, CSS, Javascript, ReactJS.
 
-⚡ Conhecimento no desenvolvimento de APIs Rest, tendo desenvolvido aplicações em  Java(Spring), .Net Core, NodeJS e Python.
+⚡ Conhecimento no desenvolvimento de APIs Rest, tendo desenvolvido aplicações em Java(Spring), .Net Core, NodeJS e Python.
 
 ⚡ Membro do Diox Squad Comunidade de tecnologia da Digital Innovation One, ficando entre os 30 escolhidos de maior liderança global tecnológica na plataforma, desenvolvendo projetos em equipe, metodologias ágeis no dia a dia e criação de aplicações.
-
-⚡ Curiosidade para explorar novas tecnologias ( cloud, big-data, machine Learning ), criando projetos novos e visão prática para manter meu portfólio atualizado.
 
 ⚡ Nono lugar Hackathon hack for good com um time de apenas 3 pessoas usando metodologias ágeis entregamos um prototipo com video-chamadas integrado pela Api da Twilio.
 
@@ -54,13 +60,13 @@
 🎯 [Portfolio WebSite](https://4lexrossi.github.io/) ⭐
 
 
-➡️ Languages: Java, JavaScript, C#, Python
+➡️ Languages: Java, JavaScript, C#.
 
 ➡️ Frameworks: Angular, Spring, ASP.Net core, NodeJs
 
 ➡️ Data Base: MongoDB, PostgreSQL, MySQL
 
-➡️ Cloud: DialogFlow, AWS, Heroku, GoogleApis
+➡️ Cloud: AWS, Heroku, GoogleApis
 
 ➡️ Karatê ❤️
 
