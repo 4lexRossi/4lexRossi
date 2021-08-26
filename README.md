@@ -26,7 +26,6 @@
     </tr> -->
 </table>
     
-💬 Me mande msgs sempre que quiserem.👨‍💻
 
 🌱 Comecei a programar sites estáticos, bem simples com o macromedia flash e dreamweaver, ainda muito jovem com 16 pra 17 anos, minha cidade é muito pequena no Brasil e na época não tinha muitas oportunidades nessa área.
 Fui então a trabalhar como marceneiro para ajudar meu pai, mas nunca me afastei muito dos computadores.
@@ -72,6 +71,7 @@ Hoje esse cliente que estava saindo da empresa fechou mais 4 projetos, pelo meno
 
 ➡️ Café ☕️.
 
+💬 Me mandem mensagens sempre que quiserem.👨‍💻
 ---
 
 <h1 align="center">Quer ser meu amigo(ou caiu no meu Jutsu =D) clica ai e conecta</h1>
