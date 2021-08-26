@@ -36,7 +36,7 @@ Não foi fácil, minha esposa também não trabalhava e como pai de família tin
 Em Outubro consegui minha primeira oportunidade registrado como trainee.
 Ainda em Outubro, 15 dias após iniciar nessa empresa recebi a notícia que tinha passado para uma vaga já como junior, na empresa em que me encontro hoje, com 6 meses recebi um aumento, foi algo incrível para mim, principalmente por causa dos feedbacks que recebi do gerente de projetos e segundo ele endossado por todo o time.
 No mês seguinte, meu time recebeu um prêmio de excelência na entrega, por ter desenvolvido um projeto, do qual participei desde o início em apenas 6 meses e nas palavras do próprio cliente, não achava que seria possível em tão pouco tempo entregar um produto tão bem desenvolvido, e com uma excelente cobertura nos testes unitários.
-Hoje esse cliente que estava saindo da empresa fechou mais 4 projetos, pelo menos por enquanto.
+Hoje esse cliente que estava saindo da empresa fechou mais 4 projetos, pelo menos por enquanto ❤️.
 
 ⚡ Junior FullStack(Angular/Java) Developer in Venturus - Developing the Future
 
@@ -62,15 +62,15 @@ Hoje esse cliente que estava saindo da empresa fechou mais 4 projetos, pelo meno
 
 ➡️ Languages: Java, JavaScript, C#.
 
-➡️ Frameworks: Angular, Spring, ASP.Net core, NodeJs
+➡️ Frameworks: Angular, Spring, ASP.Net core, NodeJs.
 
-➡️ Data Base: MongoDB, PostgreSQL, MySQL
+➡️ Data Base: MongoDB, PostgreSQL, MySQL.
 
-➡️ Cloud: AWS, Heroku, GoogleApis
+➡️ Cloud: AWS, Heroku, GoogleApis.
 
-➡️ Karatê ❤️
+➡️ Karatê 🥋.
 
-➡️ Café ☕️
+➡️ Café ☕️.
 
 ---
 
