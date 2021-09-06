@@ -27,15 +27,14 @@
 </table>
     
 
-🌱 Comecei a programar sites estáticos, bem simples com o macromedia flash e dreamweaver, ainda muito jovem com 16 pra 17 anos, minha cidade é muito pequena no Brasil e na época não tinha muitas oportunidades nessa área.
-Fui então a trabalhar como marceneiro para ajudar meu pai, mas nunca me afastei muito dos computadores.
-Em 2019 voltei aos estudos quando comprei um curso de aplicativos pela Udemy e tive meus primeiros contato com java, só não conclui porque meu laptop não conseguiu rodar o android studio por muito tempo.
-Em março de 2020 encontrei uma plataforma com cursos de programação gratuitos a Digital Innovation One, um mês após veio a pandemia com tudo e perdi meu emprego como marceneiro,  decidi então racionar minhas economias e focar nos estudos para conseguir a transição de carreira e trabalhar como desenvolvedor.
-Não foi fácil, minha esposa também não trabalhava e como pai de família tinha que prover o sustento em minha casa, estudei muito, muito mesmo, acordava as 06:00 e ia até as 22:00 quase todos os dias, inclusive aos fins de semana, fiz dezenas de entrevistas e testes, foram muitas horas de tela, em maio do mesmo ano fui chamado para ser Community Leader pelo CEO da mesma plataforma que comecei a estudar, participando de uma aceleração digital, com projetos e squads para simular o mais próximo de uma empresa real.
-Em Outubro consegui minha primeira oportunidade registrado como trainee.
-Ainda em Outubro, 15 dias após iniciar nessa empresa recebi a notícia que tinha passado para uma vaga já como junior, na empresa em que me encontro hoje, com 6 meses recebi um aumento, foi algo incrível para mim, principalmente por causa dos feedbacks que recebi do gerente de projetos e segundo ele endossado por todo o time.
-No mês seguinte, meu time recebeu um prêmio de excelência na entrega, por ter desenvolvido um projeto, do qual participei desde o início em apenas 6 meses e nas palavras do próprio cliente, não achava que seria possível em tão pouco tempo entregar um produto tão bem desenvolvido, e com uma excelente cobertura nos testes unitários.
-Hoje esse cliente que estava saindo da empresa fechou mais 4 projetos, pelo menos por enquanto ❤️.
+🌱 Com 16 anos, comecei a programar sites estáticos com o macromedia flash e dreamweaver, na época não tinha muitas oportunidades nessa área, então comecei a trabalhar como marceneiro na empresa da família, mas não me afastei da área de tecnologia da informação, tive algumas empresas e desenvolvi os sites delas.
+Em 2019 comprei um curso de aplicativos pela Udemy e tive meus primeiros contatos com java, só não conclui pois meu laptop não conseguiu rodar o android studio por muito tempo.
+Em fevereiro de 2020 encontrei uma plataforma com cursos de programação gratuitos, a Digital Innovation One, após um mês veio a pandemia e perdi meu emprego como marceneiro, decidi me dedicar aos estudos para conseguir a transição de carreira e trabalhar como desenvolvedor.
+Não foi fácil, como o único provedor da família tenho a responsabilidade em sustentar minha casa, estudei muito, acordava as 06:00 e estudava até as 22:00 quase todos os dias, inclusive aos fins de semana, fiz muitos projetos de estudo e alguns freelance, foram muitas horas de tela.
+Em maio do mesmo ano fui chamado para ser Community Leader pelo CEO da mesma plataforma que comecei a estudar, participando de uma aceleração com projetos e squads reais para simular o mais próximo de uma empresa real.
+Em Outubro consegui minha primeira oportunidade como trainee.
+Ainda em Outubro, 15 dias após iniciar nessa empresa recebi a notícia que tinha sido aprovado para uma vaga já como junior, na empresa em que me encontro hoje, com 6 meses recebi um aumento, foi algo incrível para mim, principalmente por causa dos feedbacks que recebi do gerente de projetos e segundo ele endossado por todo o time.
+No mês seguinte, meu time recebeu um prêmio de excelência na entrega, por ter desenvolvido um projeto  em apenas 6 meses, do qual participei desde o início e nas palavras do próprio cliente, não achava que seria possível em tão pouco tempo entregar um produto tão bem desenvolvido, e com uma excelente cobertura nos testes unitários. Hoje, esse cliente que estava saindo da empresa e tinha cancelado um outro projeto, fechou mais quatro projetos ❤️.
 
 ⚡ Junior FullStack(Angular/Java) Developer in Venturus - Developing the Future
 
