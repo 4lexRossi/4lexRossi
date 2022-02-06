@@ -36,7 +36,7 @@ Em Outubro consegui minha primeira oportunidade como trainee.
 Ainda em Outubro, 15 dias após iniciar nessa empresa recebi a notícia que tinha sido aprovado para uma vaga já como junior, na empresa em que me encontro hoje, com 6 meses recebi um aumento, foi algo incrível para mim, principalmente por causa dos feedbacks que recebi do gerente de projetos e segundo ele endossado por todo o time.
 No mês seguinte, meu time recebeu um prêmio de excelência na entrega, por ter desenvolvido um projeto  em apenas 6 meses, do qual participei desde o início e nas palavras do próprio cliente, não achava que seria possível em tão pouco tempo entregar um produto tão bem desenvolvido, e com uma excelente cobertura nos testes unitários. Hoje, esse cliente que estava saindo da empresa e tinha cancelado um outro projeto, fechou mais quatro projetos ❤️.
 
-⚡ FullStack Developer Pleno(Angular/Java) at Cognizant
+⚡ FullStack Software Enginner(Angular/Java) at Cognizant
 
 ⚡ Conhecimento e experiência de métodos ágeis, gestão de projetos e Devops(Jira, Jenkins Pipeline e controle de versão(GIT)
 
