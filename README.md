@@ -58,11 +58,11 @@ No mês seguinte, meu time recebeu um prêmio de excelência na entrega, por ter
 🎯 [Portfolio WebSite](https://4lexrossi.github.io/) ⭐
 
 
-➡️ Languages: Java, JavaScript, C#.
+➡️ Languages: Typescript, JavaScript, Java, C#.
 
 ➡️ Frameworks: Angular, Spring, ASP.Net core, NodeJs.
 
-➡️ Data Base: MongoDB, PostgreSQL, MySQL.
+➡️ Data Base: MongoDB, PostgreSQL, MySQL, MariaDB.
 
 ➡️ Cloud: AWS, Heroku, GoogleApis.
 
