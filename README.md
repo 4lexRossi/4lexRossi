@@ -60,13 +60,13 @@ No mês seguinte, meu time recebeu um prêmio de excelência na entrega, por ter
 
 ➡️ Languages: Typescript, JavaScript, Java, C#.
 
-➡️ Frameworks: Angular, Spring, ASP.Net core, NodeJs.
+➡️ Frameworks: Vue 3, Angular, Spring, ASP.Net core, NodeJs.
 
 ➡️ Data Base: MongoDB, PostgreSQL, MySQL, MariaDB.
 
 ➡️ Cloud: AWS, Heroku, GoogleApis.
 
-➡️ Karatê 🥋.
+➡️ Karatê 🥋, Jiu-Jitsu agora =D.
 
 ➡️ Café ☕️.
 
