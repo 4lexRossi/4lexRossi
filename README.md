@@ -31,11 +31,11 @@
 
 Plataforma para instituições bancárias que agora é usada por 9 dos 10 maiores bancos do mundo. Usando o VueJs, criei uma interface amigável que permite aos usuários verificar o status da produção e do inventário de cartões de crédito. Esses bancos agora podem otimizar suas operações e melhorar seus resultados financeiros.
 
-Plataforma de saúde que utiliza IA para analisar dados de pacientes, tornando as consultas médicas e prescrições mais eficientes e eficazes. Usei o Angular 13 e o Flutter para desenvolver toda a parte frontal desse sistema, que tem o potencial de revolucionar a área da saúde como a conhecemos.
+Plataforma de saúde que utiliza IA para analisar dados de pacientes, tornando as consultas médicas e prescrições mais eficientes e eficazes. Usei o Angular 13 e o Flutter para desenvolver todo front end desse sistema, que tem o potencial de revolucionar a área da saúde como a conhecemos.
 
-Também desempenhei um papel fundamental no desenvolvimento de uma plataforma para instituições bancárias que melhora significativamente a segurança e confirma a identidade real do cliente. Usando o Angular 12 e o Java para o backend, criei um sistema de verificação em tempo real que verifica se o número do cartão SIM do cliente bancário foi trocado antes de uma transação financeira importante. Hoje, essa plataforma é amplamente utilizada por grandes bancos como Santander e Bradesco em vários países.
+Desempenhei um papel fundamental no desenvolvimento de uma plataforma para instituições bancárias que melhora significativamente a segurança e confirma a identidade real do cliente. Usando o Angular 12 e o Java para o backend, criei um sistema de verificação em tempo real que verifica se o número do cartão SIM do cliente bancário foi trocado antes de uma transação financeira importante. Hoje, essa plataforma é amplamente utilizada por grandes bancos como Santander e Bradesco em vários países.
 
-Além desses projetos, também desenvolvi um sistema abrangente para uma grande indústria automobilística que simplifica a compra e venda entre varejistas e a fábrica. Usando o Angular 10 e o Java para o backend, criei uma interface amigável que inclui recursos robustos de segurança, tornando-a uma plataforma indispensável para gerenciar transações complexas.
+Além desses projetos, também desenvolvi um sistema abrangente para a terceira maior indústria automobilística do mundo, que simplifica a compra e venda entre varejistas e a fábrica. Usando o Angular 10 e o Java para o backend, criei uma interface amigável que inclui recursos robustos de segurança, tornando-a uma plataforma indispensável para gerenciar transações complexas.
 
 Por fim, desenvolvi um leitor de cartão SIM para empresas de telefonia espalhadas pelo mundo que analisa todos os dados e gera um arquivo XML completo. Usando o Java 8, criei um sistema que é amplamente utilizado na indústria de telefonia e tornou a gestão de dados mais eficiente e eficaz.
 
