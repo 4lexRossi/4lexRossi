@@ -27,14 +27,19 @@
 </table>
     
 
-🌱 Com 16 anos, comecei a programar sites estáticos com o macromedia flash e dreamweaver, na época não tinha muitas oportunidades nessa área, então comecei a trabalhar como marceneiro na empresa da família, mas não me afastei da área de tecnologia da informação, tive algumas empresas e desenvolvi os sites delas.
-Em 2019 comprei um curso de aplicativos pela Udemy e tive meus primeiros contatos com java, só não conclui pois meu laptop não conseguiu rodar o android studio por muito tempo.
-Em fevereiro de 2020 encontrei uma plataforma com cursos de programação gratuitos, a Digital Innovation One, após um mês veio a pandemia e perdi meu emprego como marceneiro, decidi me dedicar aos estudos para conseguir a transição de carreira e trabalhar como desenvolvedor.
-Não foi fácil, como o único provedor da família tenho a responsabilidade em sustentar minha casa, estudei muito, acordava as 06:00 e estudava até as 22:00 quase todos os dias, inclusive aos fins de semana, fiz muitos projetos de estudo e alguns freelance, foram muitas horas de tela.
-Em maio do mesmo ano fui chamado para ser Community Leader pelo CEO da mesma plataforma que comecei a estudar, participando de uma aceleração com projetos e squads reais para simular o mais próximo de uma empresa real.
-Em Outubro consegui minha primeira oportunidade como trainee.
-Ainda em Outubro, 15 dias após iniciar nessa empresa recebi a notícia que tinha sido aprovado para uma vaga já como junior, na empresa em que me encontro hoje, com 6 meses recebi um aumento, foi algo incrível para mim, principalmente por causa dos feedbacks que recebi do gerente de projetos e segundo ele endossado por todo o time.
-No mês seguinte, meu time recebeu um prêmio de excelência na entrega, por ter desenvolvido um projeto  em apenas 6 meses, do qual participei desde o início e nas palavras do próprio cliente, não achava que seria possível em tão pouco tempo entregar um produto tão bem desenvolvido, e com uma excelente cobertura nos testes unitários. Hoje, esse cliente que estava saindo da empresa e tinha cancelado um outro projeto, fechou mais quatro projetos ❤️.
+🌱 Minhas contribuições mais notáveis:
+
+Plataforma para instituições bancárias que agora é usada por 9 dos 10 maiores bancos do mundo. Usando o VueJs, criei uma interface amigável que permite aos usuários verificar o status da produção e do inventário de cartões de crédito. Esses bancos agora podem otimizar suas operações e melhorar seus resultados financeiros.
+
+Plataforma de saúde que utiliza IA para analisar dados de pacientes, tornando as consultas médicas e prescrições mais eficientes e eficazes. Usei o Angular 13 e o Flutter para desenvolver toda a parte frontal desse sistema, que tem o potencial de revolucionar a área da saúde como a conhecemos.
+
+Também desempenhei um papel fundamental no desenvolvimento de uma plataforma para instituições bancárias que melhora significativamente a segurança e confirma a identidade real do cliente. Usando o Angular 12 e o Java para o backend, criei um sistema de verificação em tempo real que verifica se o número do cartão SIM do cliente bancário foi trocado antes de uma transação financeira importante. Hoje, essa plataforma é amplamente utilizada por grandes bancos como Santander e Bradesco em vários países.
+
+Além desses projetos, também desenvolvi um sistema abrangente para uma grande indústria automobilística que simplifica a compra e venda entre varejistas e a fábrica. Usando o Angular 10 e o Java para o backend, criei uma interface amigável que inclui recursos robustos de segurança, tornando-a uma plataforma indispensável para gerenciar transações complexas.
+
+Por fim, desenvolvi um leitor de cartão SIM para empresas de telefonia espalhadas pelo mundo que analisa todos os dados e gera um arquivo XML completo. Usando o Java 8, criei um sistema que é amplamente utilizado na indústria de telefonia e tornou a gestão de dados mais eficiente e eficaz.
+
+Com minha ampla experiência em desenvolvimento de software, tenho confiança de que posso ajudar a levar seu negócio para o próximo nível. Se você está procurando melhorar a segurança, otimizar operações ou desenvolver soluções de ponta, estou aqui para ajudar. Entre em contato comigo hoje mesmo para saber mais sobre como posso contribuir para o seu sucesso. ❤️.
 
 ⚡ Senior front end developer(Vue 3) at Thales Group
 
