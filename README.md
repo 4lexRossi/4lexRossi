@@ -41,11 +41,11 @@ Desenvolvi também um leitor de cartão SIM para empresas de telefonia espalhada
 
 Com essas experiências entre outras em desenvolvimento de software, tenho total condições de desenvolver aplicações grandes e pequenas do zero, ou atualizar, refatorar e criar novas features em aplicações complexas já existentes ❤️.
 
-⚡ Senior front end developer(Vue 3) at Thales Group
+⚡ Senior front end developer(Vue 3) @Thales Group.
+
+⚡ Senior front end developer(Angular12 / Flutter) @Clarity Health.
 
 ⚡ Conhecimento e experiência de métodos ágeis, gestão de projetos e Devops(Jira, Jenkins Pipeline e controle de versão(GIT)
-
-⚡ Conhecimento em Front End, tendo desenvolvido aplicações em Angular11, HTML, CSS, Javascript, ReactJS.
 
 ⚡ Conhecimento no desenvolvimento de APIs Rest, tendo desenvolvido aplicações em Java(Spring), .Net Core, NodeJS e Python.
 
