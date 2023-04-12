@@ -37,9 +37,9 @@ Desempenhei um papel fundamental no desenvolvimento de uma plataforma para insti
 
 Além desses projetos, também desenvolvi um sistema abrangente para a terceira maior indústria automobilística do mundo, que simplifica a compra e venda entre varejistas e a fábrica. Usando o Angular 10 e o Java para o backend, criei uma interface amigável que inclui recursos robustos de segurança, tornando-a uma plataforma indispensável para gerenciar transações complexas.
 
-Por fim, desenvolvi um leitor de cartão SIM para empresas de telefonia espalhadas pelo mundo que analisa todos os dados e gera um arquivo XML completo. Usando o Java 8, criei um sistema que é amplamente utilizado na indústria de telefonia e tornou a gestão de dados mais eficiente e eficaz.
+Desenvolvi também um leitor de cartão SIM para empresas de telefonia espalhadas pelo mundo que analisa todos os dados e gera um arquivo XML completo. Usando o Java 8, criei um sistema que é amplamente utilizado na indústria de telefonia e tornou a gestão de dados mais eficiente e eficaz.
 
-Com minha ampla experiência em desenvolvimento de software, tenho confiança de que posso ajudar a levar seu negócio para o próximo nível. Se você está procurando melhorar a segurança, otimizar operações ou desenvolver soluções de ponta, estou aqui para ajudar. Entre em contato comigo hoje mesmo para saber mais sobre como posso contribuir para o seu sucesso. ❤️.
+Com essas experiências entre outras em desenvolvimento de software, tenho total condições de desenvolver aplicações grandes e pequenas do zero, ou atualizar, refatorar e criar novas features em aplicações complexas já existentes ❤️.
 
 ⚡ Senior front end developer(Vue 3) at Thales Group
 
