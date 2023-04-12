@@ -63,9 +63,9 @@ Com essas experiências entre outras em desenvolvimento de software, tenho total
 🎯 [Portfolio WebSite](https://4lexrossi.github.io/) ⭐
 
 
-➡️ Languages: Typescript, JavaScript, Java, C#.
+➡️ Languages: Typescript, JavaScript, Dart, Java, C#.
 
-➡️ Frameworks: Vue 3, Angular, Spring, ASP.Net core, NodeJs.
+➡️ Frameworks: Vue 3, Angular, Flutter, Spring, ASP.Net core, NodeJs.
 
 ➡️ Data Base: MongoDB, PostgreSQL, MySQL, MariaDB.
 
@@ -73,7 +73,7 @@ Com essas experiências entre outras em desenvolvimento de software, tenho total
 
 ➡️ Karatê 🥋, Jiu-Jitsu agora =D.
 
-➡️ Café ☕️.
+➡️ Café ☕️(sempre).
 
 💬 Me mandem mensagens sempre que quiserem.👨‍💻
 ---
