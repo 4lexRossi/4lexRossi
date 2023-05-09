@@ -31,7 +31,7 @@
 
 Plataforma para instituições bancárias que agora é usada por 9 dos 10 maiores bancos do mundo. Usando o VueJs, desenvolvi uma interface seguindo UI/UX que permite aos usuários verificar o status da produção e do inventário de cartões de crédito. Esses bancos agora podem otimizar suas operações e melhorar seus resultados financeiros.
 
-Plataforma de saúde que utiliza IA para analisar dados de pacientes, tornando as consultas médicas e prescrições mais eficientes e eficazes. Usei o Angular 13 e o Flutter para desenvolver todo front end desse sistema, que tem o potencial de revolucionar a área da saúde como a conhecemos.
+Plataforma de saúde que utiliza IA para analisar dados de pacientes, tornando as consultas médicas e prescrições mais eficientes e eficazes. Usei o Angular 13 e o Flutter para desenvolver todo frontend e mobile desse sistema, que tem o potencial de revolucionar a área da saúde como a conhecemos.
 
 Desempenhei um papel fundamental no desenvolvimento de uma plataforma para instituições bancárias que melhora significativamente a segurança e confirma a identidade real do cliente. Usando o Angular 12 e o Java para o backend, criei um sistema de verificação em tempo real que verifica se o número do cartão SIM do cliente bancário foi trocado antes de uma transação financeira importante. Hoje, essa plataforma é amplamente utilizada por grandes bancos como Santander e Bradesco em vários países.
 
