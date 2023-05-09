@@ -27,7 +27,7 @@
 </table>
     
 
-🌱 Minhas contribuições mais notáveis:
+🌱 Minhas contribuições:
 
 Plataforma para instituições bancárias que agora é usada por 9 dos 10 maiores bancos do mundo. Usando o VueJs, criei uma interface amigável que permite aos usuários verificar o status da produção e do inventário de cartões de crédito. Esses bancos agora podem otimizar suas operações e melhorar seus resultados financeiros.
 
