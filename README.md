@@ -25,9 +25,42 @@
         </td> 
     </tr> -->
 </table>
-    
 
-🌱 Minhas contribuições:
+    > en-US
+
+🌱 My contributions:
+
+Platform for banking institutions that is now used by 9 out of the 10 largest banks in the world. Using Vue.js, I developed a user interface following UI/UX that allows users to check the status of credit card production and inventory. These banks can now optimize their operations and improve their financial results.
+
+Health platform that utilizes AI to analyze patient data, making medical consultations and prescriptions more efficient and effective. I used Angular 15 and Flutter to develop the entire frontend and mobile of this system, which has the potential to revolutionize the healthcare industry as we know it.
+
+Played a key role in the development of a platform for banking institutions that significantly enhances security and confirms the real identity of the customer. Using Angular 12 and Java for the backend, I created a real-time verification system that checks whether the banking customer's SIM card number has been swapped before a critical financial transaction. Today, this platform is widely used by major banks such as Santander and Bradesco in various countries.
+
+In addition to these projects, I also developed a comprehensive system for the third-largest automotive industry in the world, which simplifies the buying and selling between retailers and the factory. Using Angular 10 and Java for the backend, I created a user-friendly interface that includes robust security features, making it an indispensable platform for managing complex transactions.
+
+I also developed a SIM card reader for telecommunications companies around the world that analyzes all data and generates a complete XML file. Using Java 8, I created a system that is widely used in the telecommunications industry and has made data management more efficient and effective.
+
+With these experiences among others in software development, I am fully capable of developing large and small applications from scratch, or updating, refactoring, and creating new features in existing complex applications ❤️.
+
+⚡ Senior front-end developer (Vue 3) @Thales Group.
+
+⚡ Senior front-end developer (Angular 15 / Flutter) @Clarity Health.
+
+⚡ Knowledge and experience of agile methods, project management, and DevOps (Jira, Jenkins Pipeline, and version control (GIT).
+
+⚡ Knowledge in the development of Rest APIs, having developed applications in Java (Spring), .Net Core, NodeJS, and Python.
+
+⚡ Member of the Diox Squad Technology Community of Digital Innovation One, being among the top 30 chosen for the greatest global technological leadership on the platform, developing projects in teams, agile methodologies in daily life, and application creation.
+
+⚡ Ninth place in the Hackathon hack for good with a team of only 3 people using agile methodologies, we delivered a prototype with integrated video calls by the Twilio Api.
+
+⚡ Support and participation in social responsibility actions.
+
+⚡ Active participation collaborating with less experienced devs in the communities of Digital Innovation One, RocketSeat, Shawee. I like to share my learnings and want to help, especially people who are starting out or transitioning to the technology field.
+
+    > pt-BR
+
+🌱Minhas contribuições:
 
 Plataforma para instituições bancárias que agora é usada por 9 dos 10 maiores bancos do mundo. Usando o VueJs, desenvolvi uma interface seguindo UI/UX que permite aos usuários verificar o status da produção e do inventário de cartões de crédito. Esses bancos agora podem otimizar suas operações e melhorar seus resultados financeiros.
 
@@ -40,6 +73,7 @@ Além desses projetos, também desenvolvi um sistema abrangente para a terceira 
 Desenvolvi também um leitor de cartão SIM para empresas de telefonia espalhadas pelo mundo que analisa todos os dados e gera um arquivo XML completo. Usando o Java 8, criei um sistema que é amplamente utilizado na indústria de telefonia e tornou a gestão de dados mais eficiente e eficaz.
 
 Com essas experiências entre outras em desenvolvimento de software, tenho total condições de desenvolver aplicações grandes e pequenas do zero, ou atualizar, refatorar e criar novas features em aplicações complexas já existentes ❤️.
+
 
 ⚡ Senior front end developer(Vue 3) @Thales Group.
 
@@ -71,11 +105,11 @@ Com essas experiências entre outras em desenvolvimento de software, tenho total
 
 ➡️ Cloud: AWS, Heroku, GoogleApis.
 
-➡️ Karatê 🥋, Jiu-Jitsu agora =D.
+➡️ Karatê 🥋, Jiu-Jitsu =D.
 
-➡️ Café ☕️(sempre).
+➡️ Coffe ☕️(always).
 
-💬 Me mandem mensagens sempre que quiserem.👨‍💻
+💬 DM me anytime.👨‍💻
 ---
 
 <h1 align="center">Quer ser meu amigo(ou caiu no meu Jutsu =D) clica ai e conecta</h1>
