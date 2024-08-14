@@ -105,7 +105,7 @@ Com essas experiências entre outras em desenvolvimento de software, tenho total
 
 ➡️ Cloud: AWS, Heroku, GoogleApis.
 
-➡️ Karatê 🥋, Jiu-Jitsu =D.
+➡️ Karatê 🥋, Jiu-Jitsu =D, GYM now.
 
 ➡️ Coffe ☕️(always).
 
