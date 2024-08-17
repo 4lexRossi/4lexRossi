@@ -75,7 +75,7 @@ Desenvolvi também um leitor de cartão SIM para empresas de telefonia espalhada
 Com essas experiências entre outras em desenvolvimento de software, tenho total condições de desenvolver aplicações grandes e pequenas do zero, ou atualizar, refatorar e criar novas features em aplicações complexas já existentes ❤️.
 
 
-⚡ Senior front end developer(Vue 3) @Thales Group.
+⚡ Senior front end developer(Vue 3 / Angular) @Thales Group.
 
 ⚡ Senior front end developer(Angular15 / Flutter) @Clarity Health.
 
@@ -99,11 +99,11 @@ Com essas experiências entre outras em desenvolvimento de software, tenho total
 
 ➡️ Languages: Typescript, JavaScript, Dart, Java, C#.
 
-➡️ Frameworks: Vue 3, Angular, Flutter, Spring, ASP.Net core, NodeJs.
+➡️ Frameworks: Angular, Vue 3, Flutter, Spring, ASP.Net core, NodeJs.
 
 ➡️ Data Base: MongoDB, PostgreSQL, MySQL, MariaDB.
 
-➡️ Cloud: AWS, Heroku, GoogleApis.
+➡️ Cloud: AWS, Heroku, GCP.
 
 ➡️ Karatê 🥋, Jiu-Jitsu =D, GYM now.
 
