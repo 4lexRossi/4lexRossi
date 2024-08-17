@@ -25,8 +25,9 @@
         </td> 
     </tr> -->
 </table>
-
-    > en-US
+```
+en-US
+```
 
 🌱 My contributions:
 
@@ -58,7 +59,9 @@ With these experiences among others in software development, I am fully capable 
 
 ⚡ Active participation collaborating with less experienced devs in the communities of Digital Innovation One, RocketSeat, Shawee. I like to share my learnings and want to help, especially people who are starting out or transitioning to the technology field.
 
-    > pt-BR
+```
+pt-BR
+```
 
 🌱Minhas contribuições:
 
