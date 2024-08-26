@@ -4,7 +4,7 @@
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=4lexRossi&repo=4lexRossi&countColorcountColor)
 
-### old counter 
+### Old counter 
 ![Visitor Count](https://profile-counter.glitch.me/4lexRossi/count.svg)
 > /\ Se você leu esse contador de visitas e essa msg te peguei no meu jutsu 😄 clica na foto no final da página e conecta no In, ah e me avisa que meu Jutsu funcionou
 
