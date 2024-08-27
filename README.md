@@ -103,7 +103,7 @@ Com essas experiências entre outras em desenvolvimento de software, tenho total
 🎯 [Portfolio WebSite](https://4lexrossi.github.io/) ⭐
 
 
-➡️ Languages: Typescript, JavaScript, Dart, Java, C#.
+➡️ Languages: Typescript, JavaScript, Golang, Dart, Java, C#.
 
 ➡️ Frameworks: Angular, Vue 3, Flutter, Spring, ASP.Net core, NodeJs.
 
